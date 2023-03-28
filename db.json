@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "title": "Produto 1",
+      "description": "Teste",
+      "barcode": 123455665,
+      "date": "2023-01-02",
+      "value": 32.12,
+      "weight": 0.1,
+      "height": 12,
+      "width": 12,
+      "length": 12,
+      "categories": "Celular",
+      "images": "https://a-static.mlcdn.com.br/800x560/celular-samsung-galaxy-s-21-5g-128gb-dual-chip-sm-g991bz/gazinshop/9571/360d11166285e198e77b0203d6e54d9c.jpeg",
+      "id": 1
+    },
+    {
+      "title": "Computador",
+      "description": "teste",
+      "barcode": 2222222222,
+      "date": "2023-03-08",
+      "value": 1234.32,
+      "weight": 21,
+      "height": 20,
+      "width": "",
+      "length": "",
+      "categories": "Computador",
+      "images": "https://cdn.leroymerlin.com.br/products/computador_completo_icc_intel_core_i5_8gb_hd_2tb_monitor_19_a_1567830131_86bd_600x600.png",
+      "id": 2
+    }
+  ]
+}
